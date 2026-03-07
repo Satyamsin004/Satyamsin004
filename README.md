@@ -1,51 +1,62 @@
-# Hi 👋 I'm Satyam Kumar
+<h1 align="center">Hi 👋, I'm Satyam Kumar</h1>
 
-💻 Computer Science and Design Engineering Student  
-🎓 Atria Institute of Technology  
-📍 Bengaluru, India  
+<h3 align="center">Computer Science Student | Machine Learning | Web Development</h3>
 
-I am passionate about **Software Development, Machine Learning, and Web Applications**.  
-I enjoy solving real-world problems using **data and scalable systems**.
+<p align="center">
+  <a href="https://github.com/Satyamsin004">
+    <img src="https://komarev.com/ghpvc/?username=Satyamsin004&label=Profile%20Views&color=blue&style=flat" />
+  </a>
+</p>
 
 ---
 
-## 🚀 Skills
+## 👨‍💻 About Me
 
-### Programming
+- 🎓 Computer Science and Design Engineering student at **Atria Institute of Technology**
+- 💡 Interested in **Machine Learning, Software Development, and Web Applications**
+- 🌱 Currently learning **Advanced Machine Learning and Full Stack Development**
+- 🧠 Solved **100+ DSA problems on LeetCode**
+
+---
+
+## 🚀 Tech Stack
+
+**Programming**
+
 Python • Java • C/C++ • JavaScript
 
-### Web Development
+**Frontend**
+
 HTML • CSS • React.js
 
-### Backend
-REST APIs • Backend Integration
+**Machine Learning**
 
-### Machine Learning
-Scikit-learn • Feature Engineering • Data Preprocessing • Model Evaluation • TensorFlow
+Scikit-learn • TensorFlow • Data Preprocessing • Feature Engineering
 
-### Tools
-Git • GitHub • VS Code
+**Tools**
+
+Git • GitHub • VS Code • Jupyter Notebook
 
 ---
 
-## 📌 Featured Projects
+## 🌟 Featured Projects
 
 ### 🌱 Soil Analysis and Crop Recommendation
-Machine learning model that recommends crops based on soil parameters.
+Machine learning system that recommends crops based on soil parameters.
 
 🔗 https://github.com/Satyamsin004/soil-analysis-and-crop-recommendation
 
 ---
 
 ### ♻️ Smart Waste Segregation Dashboard
-AI-powered waste classification system with React dashboard.
+AI-powered waste classification dashboard.
 
 🔗 https://github.com/Satyamsin004/Smart-waste-segeration-dashboard
 
 ---
 
 ### 🌍 Bangalore Escape Travel Guide
-React-based travel recommendation platform for Bengaluru.
+React-based travel recommendation web application.
 
 🔗 https://github.com/Satyamsin004/Bangaloreescape
 
@@ -53,19 +64,17 @@ React-based travel recommendation platform for Bengaluru.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satyamsin004&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamsin004&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Satyamsin004&show_icons=true&theme=tokyonight" />
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamsin004&layout=compact&theme=tokyonight" />
 
-## 🧠 Coding Practice
-
-Solved **100+ Data Structures and Algorithms problems on LeetCode**
+</p>
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect With Me
 
 LinkedIn  
 https://www.linkedin.com/in/satyam-kumar-020283248
