@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Satyam Kumar</h1>
 
 <h3 align="center">Computer Science Student | Machine Learning | Web Development</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Developer;Full+Stack+Learner;Open+Source+Enthusiast&center=true&width=500&height=45">
+</p>
 
 <p align="center">
   <a href="https://github.com/Satyamsin004">
