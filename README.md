@@ -16,16 +16,17 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 * 🎓 Computer Science and Design Engineering student at **Atria Institute of Technology**
 * 💡 Interested in **Machine Learning, Software Development, and Web Applications**
 * 🌱 Currently learning **Advanced Machine Learning and Full Stack Development**
 * 🧠 Solved **100+ DSA problems on LeetCode**
+* ⚡ Goal: Become a **Full Stack + AI Engineer**
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 ### 💻 Programming
 
@@ -34,22 +35,16 @@
 ![C++](https://img.shields.io/badge/C%2FC++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
----
-
 ### 🎨 Frontend
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
----
-
 ### 🤖 Machine Learning
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-
----
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
 
 ### 🛠 Tools
 
@@ -60,7 +55,7 @@
 
 ---
 
-## 🌟 Featured Projects
+# 🌟 Featured Projects
 
 ### 🌱 Soil Analysis and Crop Recommendation
 
@@ -86,7 +81,7 @@ React-based travel recommendation web application.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Satyamsin004&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -98,13 +93,40 @@ React-based travel recommendation web application.
 
 ---
 
-## 🔥 GitHub Activity
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Satyamsin004&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 GitHub Activity Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Satyamsin004\&theme=tokyo-night)
 
 ---
 
-## 📫 Connect With Me
+# 🧠 LeetCode Stats
 
-LinkedIn
-https://www.linkedin.com/in/satyam-kumar-020283248
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Satyamsin004?theme=dark&font=baloo&ext=contest"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/Satyamsin004/Satyamsin004/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/satyam-kumar-020283248">
+<img src="https://img.shields.io/badge/LinkedIn-Satyam%20Kumar-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
