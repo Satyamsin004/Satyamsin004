@@ -107,12 +107,6 @@ React-based travel recommendation web application.
 
 ---
 
-# 🧠 LeetCode Stats
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/Satyamsin004?theme=dark&font=baloo&ext=contest"/>
-</p>
-
 ---
 
 # 🐍 Contribution Snake
