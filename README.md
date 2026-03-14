@@ -1,88 +1,93 @@
 ![Banner](github-header-banner.png)
-<h1 align="center">Hi 👋, I'm Satyam Kumar</h1>
-
-<h3 align="center">Computer Science Student | Machine Learning | Web Development</h3>
+```{=html}
+<h1 align="center">
+```
+Hi 👋, I'm Satyam Kumar
+```{=html}
+</h1>
+```
+```{=html}
+<h3 align="center">
+```
+Computer Science Student | Machine Learning | Web Development
+```{=html}
+</h3>
+```
+```{=html}
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Developer;Full+Stack+Learner;Open+Source+Enthusiast&center=true&width=500&height=45">
+```
+`<img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Developer;Full+Stack+Learner;Open+Source+Enthusiast&center=true&width=500&height=45">`{=html}
+```{=html}
 </p>
-
+```
+```{=html}
 <p align="center">
-  <a href="https://github.com/Satyamsin004">
-    <img src="https://komarev.com/ghpvc/?username=Satyamsin004&label=Profile%20Views&color=blue&style=flat" />
-  </a>
+```
+`<a href="https://github.com/Satyamsin004">`{=html}
+`<img src="https://komarev.com/ghpvc/?username=Satyamsin004&label=Profile%20Views&color=blue&style=flat" />`{=html}
+`</a>`{=html}
+```{=html}
 </p>
-
+```
 ---
-
-## 👨‍💻 About Me
-
-- 🎓 Computer Science and Design Engineering student at **Atria Institute of Technology**
-- 💡 Interested in **Machine Learning, Software Development, and Web Applications**
-- 🌱 Currently learning **Advanced Machine Learning and Full Stack Development**
-- 🧠 Solved **100+ DSA problems on LeetCode**
-
+👨‍💻 About Me
+🎓 Computer Science and Design Engineering student at Atria
+Institute of Technology
+💡 Interested in Machine Learning, Software Development, and Web
+Applications
+🌱 Currently learning Advanced Machine Learning and Full Stack
+Development
+🧠 Solved 100+ DSA problems on LeetCode
 ---
-
-## 🚀 Tech Stack
-
-**Programming**
-
-Python • Java • C/C++ • JavaScript
-
-**Frontend**
-
-HTML • CSS • React.js
-
-**Machine Learning**
-
-Scikit-learn • TensorFlow • Data Preprocessing • Feature Engineering
-
-**Tools**
-
-Git • GitHub • VS Code • Jupyter Notebook
-
+🚀 Tech Stack
+💻 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2FC++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+🎨 Frontend
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+🤖 Machine Learning
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+🛠 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ---
-
-## 🌟 Featured Projects
-
-### 🌱 Soil Analysis and Crop Recommendation
+🌟 Featured Projects
+🌱 Soil Analysis and Crop Recommendation
 Machine learning system that recommends crops based on soil parameters.
-
 🔗 https://github.com/Satyamsin004/soil-analysis-and-crop-recommendation
-
----
-
-### ♻️ Smart Waste Segregation Dashboard
+♻️ Smart Waste Segregation Dashboard
 AI-powered waste classification dashboard.
-
 🔗 https://github.com/Satyamsin004/Smart-waste-segeration-dashboard
-
----
-
-### 🌍 Bangalore Escape Travel Guide
+🌍 Bangalore Escape Travel Guide
 React-based travel recommendation web application.
-
 🔗 https://github.com/Satyamsin004/Bangaloreescape
-
 ---
-
-## 📊 GitHub Stats
-
+📊 GitHub Stats
+```{=html}
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satyamsin004&show_icons=true&theme=tokyonight&hide_border=true"/>
+```
+`<img src="https://github-readme-stats.vercel.app/api?username=Satyamsin004&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
 </p>
-
+```
+```{=html}
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamsin004&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>>
-## 🔥 GitHub Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Satyamsin004&theme=tokyo-night)
-
+```
+`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamsin004&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
+</p>
+```
 ---
-
-
-## 📫 Connect With Me
-
+🔥 GitHub Activity
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Satyamsin004&theme=tokyo-night)
+---
+📫 Connect With Me
 LinkedIn  
 https://www.linkedin.com/in/satyam-kumar-020283248
